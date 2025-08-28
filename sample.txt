@@ -1,0 +1,15 @@
+This is a sample text file.
+
+It contains some example content to demonstrate:
+- Basic text formatting
+- Multiple lines
+- Different types of content
+
+You can edit this file as needed for your project.
+
+Sample data:
+- Item 1
+- Item 2  
+- Item 3
+
+End of sample file.
